@@ -1,12 +1,12 @@
 {
-  "rom_url": "https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200825094237/PDEM10_11_OTA_0460_all_MHvLRj9IGkbL.ozip",
-  "rom_name": "PDEM10_11_OTA_0460_all_MHvLRj9IGkbL.ozip",
-  "pack_sgsi": "PDEM10_11_OTA_0460_XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": false,
+  "rom_url": "https://bigota.d.miui.com/20.9.4/miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip",
+  "rom_name": "miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip",
+  "pack_sgsi": "miui_MIMIX3_20.9.4_SGSI.7z",
+  "make_miui": true,
   "make_flyme": false,
-  "make_coloros": true,
+  "make_coloros": false,
   "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super": true
+  "make_super": false
 }
